@@ -13,3 +13,8 @@ def link
   puts catch_phrase
 end
 
+def all_phrases
+  mario
+  toadstool
+  link
+end
